@@ -30,8 +30,7 @@
 
 | 时间 | 重要节点 | 意义 |
 | --- | --- | --- |
-| **2025 年 5 月 16 日** | [云端 Codex 以研究预览形式发布](https://openai.com/index/introducing-codex/)，用户可把功能开发、修复问题等任务交给独立的云端环境执行，并审查结果。
-仅向ChatGPT Pro、Team 和 Enterprise 用户开放使用。 | 基于GPT模型的云端软件工程智能体，让GPT模型拥有了动手干活的能力。 |
+| **2025 年 5 月 16 日** | [云端 Codex 以研究预览形式发布](https://openai.com/index/introducing-codex/)，用户可把功能开发、修复问题等任务交给独立的云端环境执行，并审查结果。<br>仅向 ChatGPT Pro、Team 和 Enterprise 用户开放使用。 | 基于 GPT 模型的云端软件工程智能体，让 GPT 模型拥有了动手干活的能力。 |
 | **2025年5月19日** | 在IOS系统上发布Codex移动版 | 当用户离开Desk时，也能支持从移动端发起和管理云端编程任务。 |
 | **2025 年 6 月 3 日** | [开放给 ChatGPT Plus 用户](https://openai.com/index/introducing-codex/)；用户也可为任务配置互联网访问。 | 扩大使用范围，并提高云端任务处理真实项目的能力。 |
 | **2025 年 8 月 27 日** | [推出 IDE 扩展、本地与云端任务衔接、代码审查](https://learn.chatgpt.com/docs/changelog)。 | Codex 融入开发流程。 |
